@@ -5,9 +5,9 @@
 	  <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <Version>2.0.1</Version>
+	  <Version>3.0.1</Version>
   </PropertyGroup>
 	<ItemGroup>
-		<PackageReference Include="CommonBasicLibraries" Version="5.0.1" />
+		<PackageReference Include="CommonBasicLibraries" Version="7.0.1" />
 	</ItemGroup>
 </Project>
