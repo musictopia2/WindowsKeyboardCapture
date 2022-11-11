@@ -1,13 +1,13 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-	  <TargetFramework>net6.0-windows</TargetFramework>
+	  <TargetFramework>net7.0-windows</TargetFramework>
 	  <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <Version>3.0.1</Version>
+	  <Version>7.0.1</Version>
   </PropertyGroup>
 	<ItemGroup>
-		<PackageReference Include="CommonBasicLibraries" Version="7.0.1" />
+		<PackageReference Include="CommonBasicLibraries" Version="7.0.8" />
 	</ItemGroup>
 </Project>
