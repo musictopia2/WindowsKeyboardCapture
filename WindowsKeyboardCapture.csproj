@@ -1,13 +1,13 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
-
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-	  <TargetFramework>net8.0-windows</TargetFramework>
-	  <UseWindowsForms>true</UseWindowsForms>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <Version>7.0.1</Version>
+    <Version>9.0.1</Version>
   </PropertyGroup>
-	<ItemGroup>
-		<PackageReference Include="CommonBasicLibraries" Version="8.0.1" />
-	</ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="CommonBasicLibraries" Version="9.0.1" />
+  </ItemGroup>
 </Project>
